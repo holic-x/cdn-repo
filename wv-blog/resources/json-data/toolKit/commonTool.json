@@ -1,0 +1,39 @@
+[
+  {
+      "class_name": "码农日常",
+      "class_desc": "码农日常",
+      "link_list": [
+          {
+              "name": "stack overflow",
+              "link": "https://stackoverflow.com/",
+              "avatar": "https://imgtu.com/i/7X9YtI",
+              "descr": ""
+          },
+          {
+            "name": "Notion",
+            "link": "https://www.notion.so/zh-cn",
+            "avatar": "https://imgtu.com/i/77nOEQ",
+            "descr": " "
+        },
+        {
+            "name": "Maven",
+            "link": "https://imgtu.com/i/7X9tht",
+            "avatar": "图片链接",
+            "descr": "maven仓库"
+        }
+      ]
+  },
+
+  {
+      "class_name": "一体化办公",
+      "class_desc": "一体化办公",
+      "link_list": [
+          {
+              "name": "飞书",
+              "link": "https://www.feishu.cn/",
+              "avatar": "https://imgtu.com/i/77nOEQ",
+              "descr": ""
+          }
+      ]
+  }
+]

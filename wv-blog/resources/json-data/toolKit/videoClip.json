@@ -1,0 +1,255 @@
+[
+  {
+      "class_name": "视频剪辑实用工具集",
+      "class_desc": "视频剪辑相关实用工具集：视频解析下载、格式转化相关",
+      "link_list": [
+          {
+              "name": "bilibili视频解析下载",
+              "link": "https://bilibili.iiilab.com/",
+              "avatar": "https://iiilab.nos-eastchina1.126.net/video/logo.png",
+              "descr": "一个好看的在线配色网站"
+          },
+          {
+              "name": "酷Q网音乐格式转换",
+              "link": "https://mp3.aoleiao.com/",
+              "avatar": "https://kqwyygszh.pages.dev//img/icons/android-chrome-192x192.png",
+              "descr": "支持酷狗、酷我、QQ、网易云、虾米等加密音乐格式转化"
+          },
+          {
+              "name": "Qmc-decoder",
+              "link": "https://github.com/Presburger/qmc-decoder/releases",
+              "avatar": "",
+              "descr": "音频解码软件（将加密的音频拖拽至exe即可自动解密），支持win、mac"
+          },
+          {
+            "name": "格式工厂",
+            "link": "http://www.pcgeshi.com/",
+            "avatar": "https://imgtu.com/i/7Xi6Nd",
+            "descr": "多媒体格式转化工具"
+          },
+
+          {
+              "name": "改图宝",
+              "link": "https://www.gaitubao.com/",
+              "avatar": "https://kqwyygszh.pages.dev//img/icons/android-chrome-192x192.png",
+              "descr": "快速、简单的在线修改图片工具"
+          },
+          {
+              "name": "在线音频处理器",
+              "link": "https://vocalremover.org/ch/",
+              "avatar": "https://vocalremover.org/img/remover/player_ch.jpg",
+              "descr": "在线音频处理器：可进行人声消除和隔离，音频属性调整、转换等"
+          },
+          {
+              "name": "33台词",
+              "link": "http://33.agilestudio.cn/",
+              "avatar": "",
+              "descr": "通过台词找影片素材"
+          },
+          {
+              "name": "trace.moe",
+              "link": "https://trace.moe/",
+              "avatar": "",
+              "descr": "通过图片找影片素材"
+          }
+      ]
+  },
+  {
+      "class_name": "软件",
+      "class_desc": "视频剪辑软件",
+      "link_list": [
+          {
+              "name": "软件合集介绍推文",
+              "link": "https://mp.weixin.qq.com/s?__biz=MzA5OTE1NDY2Mw==&mid=100004707&idx=1&sn=c1ef67da59257b4b44862c11576fa0a9&chksm=1087fceb27f075fdce3105e32cfe1b7b6d12dfc213a2975b453d14ee4c09082b7767c0128325#rd",
+              "avatar": "",
+              "descr": "软件合集介绍推文"
+          }
+      ]
+  },
+  {
+      "class_name": "配色",
+      "class_desc": "",
+      "link_list": [
+          {
+              "name": "中国色ZHONGGUOOSE",
+              "link": "http://zhongguose.com/",
+              "avatar": "https://imgtu.com/i/7XFyrT",
+              "descr": "一个好看的在线配色网站"
+          },
+          {
+              "name": "ColorDrop",
+              "link": "https://colordrop.io/",
+              "avatar": "https://imgtu.com/i/7XFgZF",
+              "descr": "四色块拼色组合推荐"
+          },
+          {
+              "name": "itmeo",
+              "link": "https://webgradients.com/",
+              "avatar": "https://webgradients.com/img/other/logos/webgradients_logo.png",
+              "descr": "渐变色组合推荐"
+          }
+      ]
+  },
+  {
+      "class_name": "设计相关",
+      "class_desc": "",
+      "link_list": [
+          {
+              "name": "图怪兽",
+              "link": "https://www.gaoding.com/introduction",
+              "avatar": "",
+              "descr": "模板设计相关"
+          },
+          {
+              "name": "办公资源",
+              "link": "https://www.bangongziyuan.com/",
+              "avatar": "https://imgtu.com/i/7XF6qU",
+              "descr": "办公文档模板资源(PPT、Word、Excel、音效模板、实用工具)"
+          },
+          {
+              "name": "钙网",
+              "link": "http://www.uugai.com/",
+              "avatar": "http://www.uugai.com/logoa/css/logo.png",
+              "descr": "免费的LOGO在线设计制作工具"
+          },
+          {
+              "name": "稿定设计",
+              "link": "https://www.gaoding.com/introduction",
+              "avatar": "",
+              "descr": "模板设计相关"
+          },
+          {
+              "name": "创客贴",
+              "link": "https://www.chuangkit.com/",
+              "avatar": "",
+              "descr": "各式各样的设计相关"
+          }
+      ]
+  },
+  {
+      "class_name": "音效/音乐",
+      "class_desc": "推荐一些常用的白嫖音频素材资源",
+      "link_list": [
+          {
+              "name": "My Free MP3",
+              "link": "https://myfreemp3juices.cc/",
+              "avatar": "https://myfreemp3juices.cc/img/myfreemp3.png",
+              "descr": "免费MP3下载"
+          },
+          {
+              "name": "小森林平的免费下载音效",
+              "link": "https://taira-komori.jpn.org/freesoundcn.html",
+              "avatar": "",
+              "descr": "免费音效下载"
+          },
+          {
+              "name": "freepd",
+              "link": "https://freepd.com/",
+              "avatar": "图片链接",
+              "descr": "免费音效下载"
+          },
+          {
+              "name": "5sing",
+              "link": "http://5sing.kugou.com/index.html",
+              "avatar": "图片链接",
+              "descr": "中国原唱音乐基地"
+          }
+      ]
+  },
+  {
+      "class_name": "图片/视频",
+      "class_desc": "推荐一些图片/视频素材网站，包括但不限于白嫖，可以从各式各样的资源中获取创作和学习的灵感",
+      "link_list": [
+          {
+              "name": "mixkit",
+              "link": "https://mixkit.co",
+              "avatar": "图片链接",
+              "descr": "素材种类丰富，包括了自然、城市、人物、动物、建筑、爱情、商业、舞蹈等风格的视频"
+          },
+          {
+              "name": "Pexels",
+              "link": "https://www.pexels.com/",
+              "avatar": "图片链接",
+              "descr": "The best free-免费的图片/视频资源网站，支持中文搜索"
+          },
+          {
+              "name": "Pexels",
+              "link": "https://coverr.co/",
+              "avatar": "图片链接",
+              "descr": "视频资源网站"
+          },
+          {
+              "name": "velosofy-Free Video Templates",
+              "link": "https://www.velosofy.com/",
+              "avatar": "图片链接",
+              "descr": "视频资源网站"
+          },
+          {
+              "name": "videvo",
+              "link": "https://www.videvo.net/",
+              "avatar": "图片链接",
+              "descr": "提供了丰富的高清HD和4K视频，包括最新的影视视频片段、免费音乐和声音特效"
+          },
+          {
+              "name": "placeit",
+              "link": "https://placeit.net/",
+              "avatar": "图片链接",
+              "descr": "logo、视频、海报在线设计"
+          }
+      ]
+  },
+  {
+      "class_name": "综合系列",
+      "class_desc": "网站覆盖相关教程、插件、模板、软件、灵感创意等内容",
+      "link_list": [
+          {
+              "name": "CFXCAMP",
+              "link": "http://www.gfxcamp.com/",
+              "avatar": "",
+              "descr": "综合网站"
+          },
+          {
+              "name": "LookAE",
+              "link": "https://www.lookae.com/",
+              "avatar": "",
+              "descr": "大众脸影视特效后期网站"
+          }
+      ]
+  },
+  {
+      "class_name": "奇奇怪怪系列",
+      "class_desc": "在视频剪辑探索过程中偶然了解到的一些好玩的网站",
+      "link_list": [
+          {
+              "name": "知妖",
+              "link": "https://www.czhiyao.com/",
+              "avatar": "图片链接",
+              "descr": "中国妖怪百科全书：收藏了许多妖怪的来历和故事"
+          },
+          {
+              "name": "this person does not exist",
+              "link": "https://thispersondoesnotexist.com/",
+              "avatar": "",
+              "descr": "打开网站不要被吓到哈哈，因为这是个随机人脸生成器,正如它的title:this person does not exist"
+          },
+          {
+              "name": "全历史",
+              "link": "https://www.allhistory.com/",
+              "avatar": "https://static.allhistory.com/online/common/img/logo-ah.1598.svg",
+              "descr": "文明曙光-全历史:历史导航"
+          },
+          {
+              "name": "狗屁不通文章生成器",
+              "link": "https://suulnnka.github.io/BullshitGenerator/index.html",
+              "avatar": "",
+              "descr": "文章生成器、废话文学合集:没有什么狗屁不通，万物皆可圆"
+          },
+          {
+              "name": "death row jesus",
+              "link": "http://www.deathrowjesus.com/",
+              "avatar": "",
+              "descr": "一个关于死亡的网站，它是一个时光胶囊，记录着死囚们在临刑前的最后一句话"
+          }
+      ]
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+      "class_name": "常用工具",
+      "class_desc": "常用工具",
+      "link_list": [
+          {
+              "name": "哇哇工具",
+              "link": "https://www.iamwawa.cn/",
+              "avatar": "https://www.iamwawa.cn/Public/img/logo.png",
+              "descr": "便捷的在线工具网站"
+          },
+          {
+            "name": "WORLDVECTORLOGO",
+            "link": "https://worldvectorlogo.com/search",
+            "avatar": "https://www.iamwawa.cn/Public/img/logo.png",
+            "descr": "品牌logo素材下载站点（包括知名互联网公司、企业）"
+        },
+          {
+              "name": "Tinypng",
+              "link": "https://tinypng.com/",
+              "avatar": "",
+              "descr": "在线压缩PNG/JPG图片网站，能够大幅度减小图片尤其是PNG图片的size"
+          }
+
+
+          
+      ]
+  },
+  {
+    "class_name": "云",
+    "class_desc": "",
+    "link_list": [
+        {
+            "name": "百度网盘",
+            "link": "https://pan.baidu.com/disk/home",
+            "avatar": "",
+            "descr": ""
+        },
+        {
+          "name": "阿里云盘",
+          "link": "https://aliyundrive.com/",
+          "avatar": "https://gw.alicdn.com/imgextra/i2/O1CN012zI3pB1XLS21rJ9Je_!!6000000002907-55-tps-108-24.svg",
+          "descr": ""
+      },
+        {
+            "name": "115",
+            "link": "https://115.com/",
+            "avatar": "",
+            "descr": "115，一生相伴"
+        }
+    ]
+  },
+  {
+      "class_name": "词云生成",
+      "class_desc": "词云生成",
+      "link_list": [
+          {
+              "name": "易词云",
+              "link": "https://www.yciyun.com/",
+              "avatar": "",
+              "descr": "云图生成器"
+          }
+      ]
+  },
+  {
+      "class_name": "转换器相关",
+      "class_desc": "推荐文件格式转换处理相关",
+      "link_list": [
+          {
+              "name": "all to all",
+              "link": "https://www.alltoall.net/",
+              "avatar": "https://ccdn.goodq.top/caches/2bf25eeab1dd9ac68280…JlZmM0YjIzYzBjMjc0MjNiMDM1OS5qcGc_p_p100_p_3D.jpg",
+              "descr": "免费的在线格式转换文件网站，提供多个工具资源：支持常见文档、视频、音频、图片、电子书、压缩文件等格式的相关转化"
+          },
+          {
+              "name": "simplyconvert",
+              "link": "https://www.simplyconvertfiles.com/",
+              "avatar": "https://c2.hostingcdn.com//scnvtklfls/img/logo.png",
+              "descr": "一个简易的在线文件转换器"
+          }
+      ]
+  },
+  {
+      "class_name": "实用网站",
+      "class_desc": "实用资源网站导航推荐",
+      "link_list": [
+          {
+              "name": "so",
+              "link": "http://so.uigreat.com/",
+              "avatar": "https://img.uigreat.com/logo.svg",
+              "descr": "UI设计师网址导航"
+          },
+          {
+              "name": "HiPPTer",
+              "link": "https://www.hippter.com/",
+              "avatar": "图片链接",
+              "descr": "资源导航网站"
+          },
+          {
+              "name": "随便吧GO",
+              "link": "https://www.95447.com/",
+              "avatar": "https://www.95447.com/skins/pc/images/logo.jpg",
+              "descr": "站如其名，一个平平无奇随随便便的工具大师，涉猎生活服务、交通出行、金融理财、教育学习、休闲娱乐、健康养生、上网、计算等工具"
+          }
+      ]
+  }
+]

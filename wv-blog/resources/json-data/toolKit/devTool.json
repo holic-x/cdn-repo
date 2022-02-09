@@ -1,0 +1,470 @@
+[
+    {
+        "class_name": "程序员网站",
+        "class_desc": "",
+        "link_list": [
+            {
+                "name": "stack overflow",
+                "link": "https://stackoverflow.com/",
+                "avatar": "../../resources/img/common/friend_default.png",
+                "descr": ""
+            },
+            {
+                "name": "思否",
+                "link": "https://segmentfault.com/",
+                "avatar": "/resources/img/common/friend_default.png",
+                "descr": ""
+            },
+            {
+                "name": "掘金",
+                "link": "https://juejin.cn/",
+                "avatar": "../../resources/img/common/friend_default.png",
+                "descr": ""
+            },
+            {
+                "name": "知乎",
+                "link": "https://www.zhihu.com/",
+                "avatar": "../../resources/img/common/friend_default.png",
+                "descr": ""
+            },
+            {
+                "name": "CSDN",
+                "link": "https://www.csdn.net/",
+                "avatar": "../../resources/img/common/friend_default.png",
+                "descr": ""
+            }
+        ]
+    },
+    {
+        "class_name": "效率工具",
+        "class_desc": "效率工具",
+        "link_list": [
+            {
+                "name": "Snipaste",
+                "link": "https://public-apis.xyz/",
+                "avatar": "../../resources/img/common/friend_default.png",
+                "descr": "截图工具"
+            },
+            {
+                "name": "Everything",
+                "link": "https://public-apis.xyz/",
+                "avatar": "../../resources/img/common/friend_default.png",
+                "descr": "文件快速检索工具"
+            },
+            {
+                "name": "UTools",
+                "link": "https://public-apis.xyz/",
+                "avatar": "../../resources/img/common/friend_default.png",
+                "descr": "便捷工具"
+            },
+            {
+                "name": "public api",
+                "link": "https://public-apis.xyz/",
+                "avatar": "../../resources/img/common/friend_default.png",
+                "descr": "public api"
+            },
+            {
+                "name": "gitignore.io",
+                "link": "https://www.toptal.com/developers/gitignore",
+                "avatar": "../../resources/img/common/friend_default.png",
+                "descr": "指定编程语言，为项目快速构建.gitignore文件"
+            }
+        ]
+    },
+    {
+        "class_name": "编辑器",
+        "class_desc": "编辑器",
+        "link_list": [
+            {
+                "name": "Jetxxxxx系列",
+                "link": "https://public-apis.xyz/",
+                "avatar": "../../resources/img/common/friend_default.png",
+                "descr": "xxxxxxx"
+            },
+            {
+                "name": "VS Code",
+                "link": "https://public-apis.xyz/",
+                "avatar": "../../resources/img/common/friend_default.png",
+                "descr": "VS Code"
+            },
+            {
+                "name": "Eclipse",
+                "link": "https://public-apis.xyz/",
+                "avatar": "../../resources/img/common/friend_default.png",
+                "descr": "Eclipse"
+            },
+            {
+                "name": "Eclipse",
+                "link": "https://public-apis.xyz/",
+                "avatar": "../../resources/img/common/friend_default.png",
+                "descr": "Eclipse"
+            },
+            {
+                "name": "Eclipse",
+                "link": "https://public-apis.xyz/",
+                "avatar": "../../resources/img/common/friend_default.png",
+                "descr": "Eclipse"
+            },
+            {
+                "name": "Eclipse",
+                "link": "https://public-apis.xyz/",
+                "avatar": "../../resources/img/common/friend_default.png",
+                "descr": "Eclipse"
+            }
+        ]
+    },
+    {
+        "class_name": "项目版本管理",
+        "class_desc": "",
+        "link_list": [
+            {
+                "name": "github",
+                "link": "https://github.com/",
+                "avatar": "",
+                "descr": "xxx"
+            },
+            {
+                "name": "gitee",
+                "link": "https://gitee.com/",
+                "avatar": "",
+                "descr": "xxx"
+            },
+            {
+                "name": "gitcode",
+                "link": "https://gitcode.net/",
+                "avatar": "",
+                "descr": "xxx"
+            },
+            {
+                "name": "github Desktop",
+                "link": "https://desktop.github.com/",
+                "avatar": "",
+                "descr": "xxx"
+            },
+            {
+                "name": "Sourcetree",
+                "link": "https://www.sourcetreeapp.com/",
+                "avatar": "",
+                "descr": "xxx"
+            },
+            {
+                "name": "Torise Git",
+                "link": "https://tortoisegit.org/download/",
+                "avatar": "",
+                "descr": "xxx"
+            }
+        ]
+    },
+    {
+        "class_name": "人人都是产品经理",
+        "class_desc": "图示构建工具合集，产品经理成长之路",
+        "link_list": [
+            {
+                "name": "draw.io",
+                "link": "https://www.processon.com/",
+                "avatar": "",
+                "descr": "draw.io&github联动配合，在线管理图示版本"
+            },
+            {
+                "name": "Xmind",
+                "link": "https://www.xmind.cn/?ref=baidupc",
+                "avatar": "",
+                "descr": "思维导图软件"
+            },
+            {
+                "name": "ProcessOn",
+                "link": "https://www.processon.com/",
+                "avatar": "",
+                "descr": "在线作图，多人实时协作"
+            }
+        ]
+    },
+    {
+        "class_name": "数据库",
+        "class_desc": "数据库",
+        "link_list": [
+            {
+                "name": "Oracle",
+                "link": "https://public-apis.xyz/",
+                "avatar": "",
+                "descr": "Oracle"
+            },
+            {
+                "name": "MySQL",
+                "link": "https://public-apis.xyz/",
+                "avatar": "",
+                "descr": "MySQL Client:Navicat"
+            },
+            {
+                "name": "Redis",
+                "link": "https://public-apis.xyz/",
+                "avatar": "",
+                "descr": "Redis Client:"
+            },
+            {
+                "name": "MongoDB",
+                "link": "https://public-apis.xyz/",
+                "avatar": "",
+                "descr": "MongoDB Client:MongoDBCompass、"
+            }
+        ]
+    },
+    {
+        "class_name": "文档工具",
+        "class_desc": "文档工具合集",
+        "link_list": [
+            {
+                "name": "DOCWAY",
+                "link": "http://xiaoyaoji.cn/",
+                "avatar": "https://imgtu.com/i/77nOEQ",
+                "descr": "简单好用的接口文档管理"
+            },
+            {
+                "name": "Typora",
+                "link": "https://github.com/typora/",
+                "avatar": "https://typora.io/img/favicon-64.png",
+                "descr": "Markdown编辑器"
+            },
+            {
+                "name": "Notion",
+                "link": "https://www.notion.so/zh-cn",
+                "avatar": "https://imgtu.com/i/77nOEQ",
+                "descr": " "
+            },
+            {
+                "name": "Git Book",
+                "link": "https://www.gitbook.com/",
+                "avatar": "../../resources/img/common/friend_default.png",
+                "descr": "Git Book"
+            },
+            {
+                "name": "Notion",
+                "link": "https://www.gitbook.com/",
+                "avatar": "../../resources/img/common/friend_default.png",
+                "descr": "Git Book"
+            }
+        ]
+    },
+    {
+        "class_name": "辅助工具",
+        "class_desc": "辅助工具",
+        "link_list": [
+            {
+                "name": "iconfont",
+                "link": "https://www.iconfont.cn/",
+                "avatar": "../../resources/img/common/friend_default.png",
+                "descr": ""
+            }
+        ]
+    },
+    {
+        "class_name": "一体化办公",
+        "class_desc": "一体化办公",
+        "link_list": [
+            {
+                "name": "飞书",
+                "link": "https://www.feishu.cn/",
+                "avatar": "../../resources/img/common/friend_default.png",
+                "descr": ""
+            }
+        ]
+    },
+    {
+        "class_name": "浏览器",
+        "class_desc": "浏览器合集",
+        "link_list": [
+            {
+                "name": "星愿浏览器",
+                "link": "https://www.twinkstar.com/",
+                "avatar": "../../resources/img/common/friend_default.png",
+                "descr": "简洁干净的浏览器"
+            }
+        ]
+    },
+    {
+        "class_name": "数据可视化组件",
+        "class_desc": "数据可视化组件",
+        "link_list": [
+            {
+                "name": "echarts",
+                "link": "https://echarts.apache.org/zh/index.html",
+                "avatar": "../../resources/img/common/friend_default.png",
+                "descr": "一个基于JavaScript的开源可视化图表库"
+            },
+            {
+                "name": "AntV",
+                "link": "https://antv.vision/zh",
+                "avatar": "../../resources/img/common/friend_default.png",
+                "descr": ""
+            },
+            {
+                "name": "ureport",
+                "link": "https://github.com/youseries/ureport",
+                "avatar": "../../resources/img/common/friend_default.png",
+                "descr": "基于架构在Spring之上纯Java的高性能报表引擎"
+            }
+        ]
+    },
+    {
+        "class_name": "技术社区",
+        "class_desc": "技术社区合集",
+        "link_list": [
+            {
+                "name": "IT营",
+                "link": "https://www.itying.com/",
+                "avatar": "https://imgtu.com/i/77nOEQ",
+                "descr": "各路技术栈资源合集，部分资源白嫖"
+            }
+        ]
+    },
+    {
+        "class_name": "学习网站",
+        "class_desc": "学习网站合集",
+        "link_list": [
+            {
+                "name": "IT营",
+                "link": "https://www.itying.com/",
+                "avatar": "https://imgtu.com/i/77nOEQ",
+                "descr": "各路技术栈资源合集，部分资源白嫖"
+            },
+            {
+                "name": "Maven",
+                "link": "https://mvnrepository.com/",
+                "avatar": "图片链接",
+                "descr": "maven仓库"
+            }
+        ]
+    },
+    {
+        "class_name": "测试工具",
+        "class_desc": "常用测试工具集合",
+        "link_list": [
+            {
+                "name": "Postman",
+                "link": "https://www.postman.com/downloads/",
+                "avatar": "图片链接",
+                "descr": "Postman"
+            }
+        ]
+    },
+    {
+        "class_name": "UI设计相关",
+        "class_desc": "网页设计素材网站推荐:设计素材、创意、交互、工具",
+        "link_list": [
+            {
+                "name": "flaticon",
+                "link": "https://www.flaticon.com/",
+                "avatar": "",
+                "descr": "免费的矢量扁平化图标网站"
+            },
+            {
+                "name": "iconstore",
+                "link": "https://iconstore.co/",
+                "avatar": "",
+                "descr": "免费素材网站"
+            },
+            {
+                "name": "subtlepatterns",
+                "link": "https://www.toptal.com/designers/subtlepatterns/",
+                "avatar": "",
+                "descr": "纹理素材网站"
+            },
+            {
+                "name": "Free Downloads",
+                "link": "https://www.1001freedownloads.com/",
+                "avatar": "",
+                "descr": "免费素材网站"
+            },
+            {
+                "name": "FreeImages",
+                "link": "https://www.freeimages.com/cn",
+                "avatar": "",
+                "descr": "免费图片库"
+            },
+            {
+                "name": "unsplash",
+                "link": "https://unsplash.com/",
+                "avatar": "",
+                "descr": "免费图片库"
+            },
+            {
+                "name": "Sketch repo",
+                "link": "https://sketchrepo.com/",
+                "avatar": "",
+                "descr": "免费素材网站"
+            },
+            {
+                "name": "PSD repo",
+                "link": "https://psdrepo.com/",
+                "avatar": "",
+                "descr": "免费素材网站"
+            }
+        ]
+    },
+    {
+        "class_name": "资源仓库",
+        "class_desc": "常用资源仓库集合",
+        "link_list": [
+            {
+                "name": "DEV RESOURCES",
+                "link": "https://devresourc.es/",
+                "avatar": "",
+                "descr": "开发资源库(250+开源API整合的资源网站)，需结合科学上网使用"
+            },
+            {
+                "name": "Maven",
+                "link": "https://mvnrepository.com/",
+                "avatar": "图片链接",
+                "descr": "maven仓库"
+            },
+            {
+                "name": "站长素材",
+                "link": "https://sc.chinaz.com/",
+                "avatar": "图片链接",
+                "descr": "免费好用的资源素材网站"
+            },
+            {
+                "name": "PPT超级市场",
+                "link": "https://www.pptsupermarket.com/",
+                "avatar": "图片链接",
+                "descr": "PPT模板、素材资源白嫖"
+            }
+        ]
+    },
+    {
+        "class_name": "DDDD",
+        "class_desc": "自由的味道DDDD",
+        "link_list": [
+            {
+                "name": "码市",
+                "link": "https://codemart.com/",
+                "avatar": "",
+                "descr": "码市"
+            },
+            {
+                "name": "1024 WORK",
+                "link": "https://www.1024work.com/",
+                "avatar": "",
+                "descr": "1024"
+            },
+            {
+                "name": "实现",
+                "link": "https://shixian.com/",
+                "avatar": "",
+                "descr": "实现"
+            },
+            {
+                "name": "程序员客栈",
+                "link": "https://www.proginn.com/",
+                "avatar": "",
+                "descr": "程序员客栈"
+            },
+            {
+                "name": "猿急送",
+                "link": "https://www.yuanjisong.com/",
+                "avatar": "",
+                "descr": "猿急送"
+            }
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+  {
+      "class_name": "学习资源",
+      "class_desc": "学习资源",
+      "link_list": [
+          {
+              "name": "php中文网",
+              "link": "https://www.php.cn/",
+              "avatar": "https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg",
+              "descr": "php中文网"
+          },
+          {
+              "name": "书栈网",
+              "link": "https://www.bookstack.cn/",
+              "avatar": "https://static.sitestack.cn/static/images/logo.png",
+              "descr": ""
+          }
+      ]
+  },
+  {
+      "class_name": "知识充电站",
+      "class_desc": "知识充电站",
+      "link_list": [
+          {
+              "name": "BBB",
+              "link": "https://stackoverflow.com/",
+              "avatar": "",
+              "descr": ""
+          },
+          {
+              "name": "思否",
+              "link": "https://stackoverflow.com/",
+              "avatar": "",
+              "descr": ""
+          },
+          {
+              "name": "掘金",
+              "link": "https://stackoverflow.com/",
+              "avatar": "",
+              "descr": ""
+          },
+          {
+              "name": "知乎",
+              "link": "https://stackoverflow.com/",
+              "avatar": "",
+              "descr": ""
+          },
+          {
+              "name": "CSDN",
+              "link": "https://stackoverflow.com/",
+              "avatar": "",
+              "descr": ""
+          }
+      ]
+  },
+  {
+      "class_name": "扩展提升",
+      "class_desc": "扩展提升",
+      "link_list": [
+          {
+              "name": "BookBoon",
+              "link": "https://bookboon.com/en",
+              "avatar": "https://imgtu.com/i/77nMkj",
+              "descr": "免费的电子教科书资源网站，覆盖多个本科核心学科和书目"
+          }
+      ]
+  }
+]
