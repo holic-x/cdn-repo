@@ -1,7 +1,7 @@
 /* 自定义字体引入 */
 @font-face{
     font-family:'qtbfsxtFont' ;  /* 字体名自定义即可 */
-    src:url('https://cdn.jsdelivr.net/gh/holic-x/cdn-repo/wv-blog/assets/font/千图笔锋手写体.ttf'); 
+    src:url('https://cdn.jsdelivr.net/gh/holic-x/cdn-repo/wv-blog/assets/font/qtbfsxt.ttf'); 
     font-display: swap;
 }
 
